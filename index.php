@@ -207,7 +207,9 @@ echo "Sum of the two numbers $num1 and $num2 is : $sum";
 }
 getSum(20, 30);	
 	
-	
+define ("nam","hi Iam jerson");
+
+echo nam;
 	
 ?>
 </body>
