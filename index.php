@@ -24,6 +24,13 @@
 
 		
 		<br>
+		<br>
+		mobile:<br>
+		<input type="text" name="city">
+
+		
+		<br>
+	
 	
 		<input type="submit" name="save" value="submit">
 	</form>
