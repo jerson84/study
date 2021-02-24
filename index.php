@@ -19,7 +19,7 @@
 		
 		<input type="text" name="address">
 		<br>
-		City name:<br>
+		City:<br>
 		<input type="text" name="city">
 
 		
